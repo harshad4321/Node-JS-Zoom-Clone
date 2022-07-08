@@ -1,3 +1,4 @@
 # Node JS Zoom Clone
-#just a sample[ZOOMclone.png]
+#just a sample
+![alt text](ZOOMclonepng)
 
