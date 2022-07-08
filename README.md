@@ -1,4 +1,6 @@
 # Node JS Zoom Clone
-#just a sample
+# just a sample
 ![alt text](ZOOMclone.png)
+# status not completed
+
 
